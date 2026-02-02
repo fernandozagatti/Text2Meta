@@ -1,0 +1,14 @@
+version: '3'
+services:
+  jupyter:
+    build: .
+    image: text2meta
+    container_name: text2meta
+    ports:
+      - "8888:8888"
+    volumes:
+      - /home/fernando/git/Text2Meta:/app:rw
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+    command: ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]

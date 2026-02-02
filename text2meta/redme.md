@@ -15,41 +15,6 @@ This README documents **all currently available meta-features**.
 
 ---
 
-## 📦 Installation
-
-To install Text2Meta locally in development mode, follow the steps below:
-
-- Clone the repository
-
-```bash
-git clone https://github.com/fernandozagatti/Text2Meta.git
-cd Text2Meta
-```
-
-- (Optional, but recommended) Create and activate a virtual environment.
-
-**For Linux / macOS:**
-
-```bash
-python -m venv venv
-source venv/bin/activate 
-```
-
-**For Windows:**
-
-```bash
-python -m venv venv
-venv\Scripts\activate   
-```
-
-- Install the package in editable mode.
-
-```bash
-pip install -e . 
-```
-
----
-
 ## 🚀 Quick Usage
 
 ```python
