@@ -1,0 +1,213 @@
+Dataset ID,Dataset name,Task,Classification type,Total of instances,Total of classes,Idioma,Column,Target,Links
+0,Financial News Sentiment Classification Dataset,Sentiment analysis,Multiclass,211,3.0,English,text,sentiment,https://www.kaggle.com/datasets/percyzheng/sentiment-classification-selflabel-dataset
+1,Indonesian Song Lyric Emotion Dataset,Sentiment analysis,Multiclass,359,4.0,Indonesian,reff,emotion,https://www.kaggle.com/datasets/bytadit/indo-song-emolyric-dataset
+2,Dezinfo SK - Fake News Dataset,"Fraud (Spam, Pishing, Fake)",Binary,100,2.0,Slovak,text,label,https://www.kaggle.com/datasets/matejkore/dezinfo-sk-fake-news-dataset
+3,Sentiment Analysis,Sentiment analysis,Multiclass,394,3.0,English,text,sentiment,https://www.kaggle.com/datasets/mdismielhossenabir/sentiment-analysis
+4,💬 Poem Dataset,Sentiment analysis,Multiclass,450,7.0,English,poem content,label,https://www.kaggle.com/datasets/mexwell/poem-dataset
+5,Turkish Psychological Classification for NLP,Psychological classification,Multiclass,1331,16.0,Turkish,text,label,https://www.kaggle.com/datasets/zgnbyktanr/turkish-psychological-classification-for-nlp
+6,E-Mail classification NLP,"Fraud (Spam, Pishing, Fake)",Binary,122,2.0,English,Message_body,Label,https://www.kaggle.com/datasets/datatattle/email-classification-nlp
+7,CyberBullying Detection Dataset,Hate speech,Multiclass,20109,3.0,English,post_tokens,label,https://www.kaggle.com/datasets/sayankr007/cyber-bullying-data-for-multi-label-classification?select=hateXplain.csv
+8,Goodreads Best Romance 2022,Reviews rating,Multiclass,600,5.0,English,review_text,rating,https://www.kaggle.com/datasets/amandamch/goodreads-best-romance-2022
+9,Sentiment Analysis for Mental Health,Psychological classification,Multiclass,51074,7.0,English,statement,status,https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health
+10,Chatbot question classification - Woodwork company,Text classification,Multiclass,215,4.0,English,questions,category_of_question,https://www.kaggle.com/datasets/knethsara/chatbot-question-classification-woodwork-company
+11,Starbucks Reviews Dataset,Reviews rating,Multiclass,812,5.0,English,Review,Rating,https://www.kaggle.com/datasets/harshalhonde/starbucks-reviews-dataset
+12,People Slurs Dataset,Psychological classification,Multiclass,504,7.0,English,text,f_fear,https://www.kaggle.com/datasets/sinatavakoli/people-slurs-dataset?select=slurs-dataset.csv
+13,People Slurs Dataset,Psychological classification,Multiclass,504,7.0,English,text,f_pain,https://www.kaggle.com/datasets/sinatavakoli/people-slurs-dataset?select=slurs-dataset.csv
+14,People Slurs Dataset,Psychological classification,Multiclass,504,7.0,English,text,f_panic,https://www.kaggle.com/datasets/sinatavakoli/people-slurs-dataset?select=slurs-dataset.csv
+15,People Slurs Dataset,Psychological classification,Multiclass,504,7.0,English,text,f_anger,https://www.kaggle.com/datasets/sinatavakoli/people-slurs-dataset?select=slurs-dataset.csv
+16,News Category Text Classifier,Text classification,Multiclass,252,8.0,English,News,Category,https://www.kaggle.com/datasets/rafsunahmad/classify-news-into-category
+17,Labeled_Amazon_Products_Reviews_Dataset,Reviews rating,Multiclass,273,5.0,English,Review,Star,https://www.kaggle.com/datasets/aimalzd/labeled-amazon-products-reviews-dataset
+18,News Classification,Text classification,Multiclass,2059,7.0,English,news_article,news_category,https://www.kaggle.com/datasets/kishanyadav/inshort-news?select=inshort_news_data-1.csv
+19,News Classification,Text classification,Multiclass,703,7.0,English,news_article,news_category,https://www.kaggle.com/datasets/kishanyadav/inshort-news?select=inshort_news_data-2.csv
+20,News Classification,Text classification,Multiclass,1003,7.0,English,news_article,news_category,https://www.kaggle.com/datasets/kishanyadav/inshort-news?select=inshort_news_data-3.csv
+21,News Classification,Text classification,Multiclass,549,7.0,English,news_article,news_category,https://www.kaggle.com/datasets/kishanyadav/inshort-news?select=inshort_news_data-4.csv
+22,News Classification,Text classification,Multiclass,342,7.0,English,news_article,news_category,https://www.kaggle.com/datasets/kishanyadav/inshort-news?select=inshort_news_data-5.csv
+23,News Classification,Text classification,Multiclass,505,7.0,English,news_article,news_category,https://www.kaggle.com/datasets/kishanyadav/inshort-news?select=inshort_news_data-6.csv
+24,News Classification,Text classification,Multiclass,856,7.0,English,news_article,news_category,https://www.kaggle.com/datasets/kishanyadav/inshort-news?select=inshort_news_data-7.csv
+25,sentiment140,Sentiment analysis,Multiclass,496,3.0,English,Text,Polarity,https://www.kaggle.com/datasets/kevserbrayildirim/sentiment140
+26,Turkey Earthquake Relief Tweets Dataset,Text classification,Binary,464,2.0,Turkish,Tweets,Class,https://www.kaggle.com/datasets/ulkutuncerkucuktas/turkey-earthquake-relief-tweets-dataset
+27,Chat Sentiment Dataset,Sentiment analysis,Multiclass,546,3.0,English,message,sentiment,https://www.kaggle.com/datasets/nursyahrina/chat-sentiment-dataset
+28,Genshin Impact Google Play Reviews,Reviews rating,Multiclass,1000,5.0,English,review,rating,https://www.kaggle.com/datasets/supriyoain/genshin-impact-google-play-reviews
+29,Malaysia Restaurant Review Datasets,Reviews rating,Multiclass,199174,5.0,English,Review,Rating,https://www.kaggle.com/datasets/choonkhonng/malaysia-restaurant-review-datasets
+30,Malaysia Restaurant Review Datasets,Reviews rating,Multiclass,138481,5.0,English,Review,Rating,https://www.kaggle.com/datasets/choonkhonng/malaysia-restaurant-review-datasets
+31,Sentiment Analysis of Tweet Reviews,Hate speech,Binary,29530,2.0,English,tweet,label,https://www.kaggle.com/datasets/shibbir282/sentiment-analysis-of-tweet-reviews?select=train.csv
+32,❤️ vs 😡: Sentiment Analysis 📝,Sentiment analysis,Binary,996,2.0,English,sentence,label,https://www.kaggle.com/datasets/mohidabdulrehman/vs-sentiment-analysis
+33,Weather-Related Tweets,Sentiment analysis,Multiclass,999,4.0,English,tweet_text,sentiment,https://www.kaggle.com/datasets/thedevastator/crowdgrade-sentiment-evaluation-accuracy-of-weat
+34,Tamil Binary Classification 1K tweets Labels V1,Sentiment analysis,Binary,1011,2.0,Tamil,tweet,sentiment,https://www.kaggle.com/datasets/kracekumar/tamil-binary-classification-1k-tweets-labels-v1
+35,Mails classification with azure cognitive,Sentiment analysis,Multiclass,1057,4.0,Multiple,bodyText,sentiment,https://www.kaggle.com/datasets/franckepeixoto/mails-classification-with-azure-cognitive
+36,Hate Speech Detection Vietnamese,Hate speech,Multiclass,1441,3.0,Vietnamese,cmt_col,labels,https://www.kaggle.com/datasets/cthng123/hate-speech-detection-vietnamese?select=train_df.csv
+37,Hate Speech Detection Vietnamese,Hate speech,Multiclass,4867,3.0,Vietnamese,cmt_col,labels,https://www.kaggle.com/datasets/cthng123/hate-speech-detection-vietnamese?select=train_df.csv
+38,Hate Speech Detection Vietnamese,Hate speech,Multiclass,731,3.0,Vietnamese,cmt_col,labels,https://www.kaggle.com/datasets/cthng123/hate-speech-detection-vietnamese?select=train_df.csv
+39,Manga plots and demographics,Text classification,Multiclass,598,4.0,English,Plot,Demographic,https://www.kaggle.com/datasets/reis300/manga-plots-and-demographics
+40,Categorized parliamentary initatives,Text classification,Multiclass,644,14.0,Spanish,asunto,categoria,https://www.kaggle.com/datasets/raulmartinrigor/iniciativas-parlamentarias-categorizadas
+41,Sentimen Intensif Mobil Listrik Indonesia,Sentiment analysis,Multiclass,1515,3.0,Indonesian,text_cleaning,sentimen,https://www.kaggle.com/datasets/billycemerson/analisis-sentimen-terkait-intensif-mobil-listrik
+42,apple_twitter_sentiment_texts,Sentiment analysis,Multiclass,1624,3.0,English,text,sentiment,https://www.kaggle.com/datasets/seriousran/appletwittersentimenttexts
+43,Customer Complaints Sentiment and Priority Dataset,Sentiment analysis,Binary,1750,2.0,English,Consumer_complaint,Sentiment,https://www.kaggle.com/datasets/xjoury/customer-complaints-sentiment-and-priority-dataset
+44,EMPOLITICON: Political Speeches-Context & Emotion,Sentiment analysis,Multiclass,2008,4.0,English,Text_of_Speech,Emotion,https://www.kaggle.com/datasets/efatazher/empoliticon-political-speeches-context-and-emotion
+45,Bangla Emotion Dataset,Sentiment analysis,Binary,18362,2.0,Bengali,Data,Love,https://www.kaggle.com/datasets/saifsust/emonoba
+46,Bangla Emotion Dataset,Sentiment analysis,Binary,18362,2.0,Bengali,Data,Joy,https://www.kaggle.com/datasets/saifsust/emonoba
+47,Bangla Emotion Dataset,Sentiment analysis,Binary,18362,2.0,Bengali,Data,Anger,https://www.kaggle.com/datasets/saifsust/emonoba
+48,Bangla Emotion Dataset,Sentiment analysis,Binary,18362,2.0,Bengali,Data,Sadness,https://www.kaggle.com/datasets/saifsust/emonoba
+49,Misogynistic Attitude Detection,Psychological classification,Multiclass,12694,3.0,Multiple,Comments,SubTask1,https://www.kaggle.com/datasets/aakash941/misogynistic-attitude-detection
+50,Misogynistic Attitude Detection,Psychological classification,Multiclass,12694,4.0,Multiple,Comments,SubTask2,https://www.kaggle.com/datasets/aakash941/misogynistic-attitude-detection
+51,News_Magazine_Classifier,Text classification,Binary,669,2.0,English,Text,Classification,https://www.kaggle.com/datasets/rushikeshhiray/news-magazine-classifier
+52,Restaurant reviews,Reviews rating,Binary,2166,2.0,English,Review,Liked,https://www.kaggle.com/datasets/moazeldsokyx/restaurant-reviews
+53,ChatGPT App Reviews,Reviews rating,Multiclass,2257,5.0,English,review,rating,https://www.kaggle.com/datasets/saloni1712/chatgpt-app-reviews
+54,Airways_customer_data,Reviews rating,Multiclass,3397,10.0,English,reviews,rates,https://www.kaggle.com/datasets/ghassenkhaled/airways-customer-data?select=cleaned-reviews.csv
+55,Emotions,Sentiment analysis,Multiclass,2772,3.0,English,Statement,Emotion,https://www.kaggle.com/datasets/anonymous1972/emotions
+56,News category dataset,Text classification,Multiclass,747,3.0,Multiple,news,category,https://www.kaggle.com/datasets/tanmaypatil3151/news-category-dataset
+57,Text Genre Identification Corpus GINCO,Text classification,Multiclass,785,21.0,Slovenian,text,labels,https://www.kaggle.com/datasets/tajakuz/gincodataframededuptraindevtest?select=GINCO_dataframe_dedup_train_dev.csv
+58,User feedbacks (Ukrainian),Sentiment analysis,Binary,3025,2.0,Ukrainian,text,target,https://www.kaggle.com/datasets/kosovanolexandr/ukrainian-text-of-user-feedbacks-about-online-shop
+59,Call of Duty Mobile playstore reviews & ratings,Reviews rating,Multiclass,3879,5.0,English,reviews,ratings,https://www.kaggle.com/datasets/munaee/call-of-duty-mobile-playstore-reviews-ratings
+60,Emotion Classification NLP,Sentiment analysis,Multiclass,3565,4.0,English,text,label,https://www.kaggle.com/datasets/anjaneyatripathi/emotion-classification-nlp?select=emotion-labels-train.csv
+61,Emotion Classification NLP,Sentiment analysis,Multiclass,3099,4.0,English,text,label,https://www.kaggle.com/datasets/anjaneyatripathi/emotion-classification-nlp?select=emotion-labels-train.csv
+62,RevBangla,Reviews rating,Multiclass,5014,5.0,Bengali,comment,rating,https://www.kaggle.com/datasets/saifsunny/revbangla
+63,RevBangla,Sentiment analysis,Binary,5014,2.0,Bengali,comment,sentiment,https://www.kaggle.com/datasets/saifsunny/revbangla
+64,Poem Classification (NLP),Text classification,Multiclass,786,4.0,English,Poem,Genre,https://www.kaggle.com/datasets/ramjasmaurya/poem-classification-nlp?select=Poem_classification+-+train_data.csv
+65,Andalusian Hotels’ Reviews,Reviews rating,Multiclass,5101,4.0,Spanish,review_text,rating,https://www.kaggle.com/datasets/chizhikchi/andalusian-hotels-reviews-unbalanced?select=Balanced_AHR.csv
+66,Andalusian Hotels’ Reviews,Sentiment analysis,Multiclass,5101,3.0,Spanish,review_text,label,https://www.kaggle.com/datasets/chizhikchi/andalusian-hotels-reviews-unbalanced?select=Balanced_AHR.csv
+67,Andalusian Hotels’ Reviews,Reviews rating,Multiclass,13330,5.0,Spanish,review_text,rating,https://www.kaggle.com/datasets/chizhikchi/andalusian-hotels-reviews-unbalanced?select=Balanced_AHR.csv
+68,Andalusian Hotels’ Reviews,Sentiment analysis,Multiclass,13330,3.0,Spanish,review_text,label,https://www.kaggle.com/datasets/chizhikchi/andalusian-hotels-reviews-unbalanced?select=Balanced_AHR.csv
+69,PRDECT-ID: Indonesian Emotion Classification,Reviews rating,Multiclass,5305,5.0,Indonesian,Customer Review,Customer Rating,https://www.kaggle.com/datasets/jocelyndumlao/prdect-id-indonesian-emotion-classification
+70,PRDECT-ID: Indonesian Emotion Classification,Sentiment analysis,Binary,5305,2.0,Indonesian,Customer Review,Sentiment,https://www.kaggle.com/datasets/jocelyndumlao/prdect-id-indonesian-emotion-classification
+71,Fake News Dataset,"Fraud (Spam, Pishing, Fake)",Binary,789,2.0,English,article_content,labels,https://www.kaggle.com/datasets/mohamadalhasan/a-fake-news-dataset-around-the-syrian-war
+72,Emotions-6000,Sentiment analysis,Multiclass,3620,6.0,English,sentence,label,https://www.kaggle.com/datasets/farwarizvi/emotions-6000?select=train_sam_shuffle.csv
+73,Emotions-6000,Sentiment analysis,Multiclass,1198,6.0,English,sentence,label,https://www.kaggle.com/datasets/farwarizvi/emotions-6000?select=train_sam_shuffle.csv
+74,Emotions-6000,Sentiment analysis,Multiclass,590,6.0,English,sentence,label,https://www.kaggle.com/datasets/farwarizvi/emotions-6000?select=train_sam_shuffle.csv
+75,Math Lectures,Text classification,Multiclass,859,11.0,English,text,label,https://www.kaggle.com/datasets/extralime/math-lectures
+76,IMDB Multimodal Vision & NLP Genre Classification,Text classification,Multiclass,1000,4.0,English,description,genre,https://www.kaggle.com/datasets/zulkarnainsaurav/imdb-multimodal-vision-and-nlp-genre-classification
+77,Tweets Ekman pt-br,Sentiment analysis,Multiclass,3855,5.0,Portuguese,Texto,Sentimento,https://www.kaggle.com/datasets/luizfelipesouza/tweets-ekman-pt-br
+78,Twitter Duygu Analizi,Sentiment analysis,Binary,4033,2.0,Turkish,Tweets,Tweets_duygu,https://www.kaggle.com/datasets/devalper/twitter-duygu-analizi
+79,LaSolanaNews,Text classification,Multiclass,1093,7.0,Spanish,Text,Topic,https://www.kaggle.com/datasets/mgabve/lasolananews
+80,Symptom2Disease,Text classification,Multiclass,1153,24.0,English,text,label,https://www.kaggle.com/datasets/niyarrbarman/symptom2disease
+81,Website Classification,Text classification,Multiclass,1375,16.0,English,cleaned_website_text,Category,https://www.kaggle.com/datasets/hetulmehta/website-classification
+82,TagMyBook,Text classification,Multiclass,1539,10.0,English,synopsis,genre,https://www.kaggle.com/datasets/athu1105/tagmybook
+83,Query Based Agricultural Data System (QuADS),Text classification,Multiclass,1794,6.0,English,data,intent,https://www.kaggle.com/datasets/poojarajesh12/quads?select=QuADS+-+Train.csv
+84,Spam Message Detector Model,"Fraud (Spam, Pishing, Fake)",Binary,2042,2.0,English,text,spam,https://www.kaggle.com/datasets/dev0914sharma/spam-message-detector-model
+85,Germeval18 - Text Classification Dataset,Hate speech,Binary,3398,2.0,German,text,binary,https://www.kaggle.com/datasets/thedevastator/text-classification-dataset
+86,Germeval18 - Text Classification Dataset,Hate speech,Multiclass,3398,4.0,German,text,multi,https://www.kaggle.com/datasets/thedevastator/text-classification-dataset
+87,Germeval18 - Text Classification Dataset,Hate speech,Binary,5009,2.0,German,text,binary,https://www.kaggle.com/datasets/thedevastator/text-classification-dataset
+88,Germeval18 - Text Classification Dataset,Hate speech,Multiclass,5009,4.0,German,text,multi,https://www.kaggle.com/datasets/thedevastator/text-classification-dataset
+89,BBC News,Text classification,Multiclass,2126,5.0,English,text,category,https://www.kaggle.com/datasets/moazeldsokyx/bbc-news
+90,Hate Speech and Offensive Language Detection,Hate speech,Multiclass,24783,3.0,English,tweet,class,https://www.kaggle.com/datasets/thedevastator/hate-speech-and-offensive-language-detection
+91,maraş_earthquake_help_tweets,Text classification,Binary,2182,2.0,Turkish,Tweets,Class,https://www.kaggle.com/datasets/lyasdemir/mara-earthquake-help-tweets
+92,Stockify,Sentiment analysis,Multiclass,5322,3.0,English,Sentence,Sentiment,https://www.kaggle.com/datasets/sixlack/finaldf
+93,PartAI DeepSentiPers- Persian/Farsi text sentiment,Sentiment analysis,Multiclass,5780,3.0,Persian,review,label,https://www.kaggle.com/datasets/alireza151/partai-deepsentipers-persianfarsi-text-sentiment
+94,PartAI DeepSentiPers- Persian/Farsi text sentiment,Sentiment analysis,Multiclass,693,3.0,Persian,review,label,https://www.kaggle.com/datasets/alireza151/partai-deepsentipers-persianfarsi-text-sentiment
+95,PartAI DeepSentiPers- Persian/Farsi text sentiment,Sentiment analysis,Multiclass,1835,3.0,Persian,review,label,https://www.kaggle.com/datasets/alireza151/partai-deepsentipers-persianfarsi-text-sentiment
+96,Emotion Dataset,Sentiment analysis,Multiclass,5934,3.0,English,Comment,Emotion,https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset
+97,MH : uHack Sentiments,Sentiment analysis,Binary,6136,2.0,English,Review,Polarity,https://www.kaggle.com/datasets/mohamedziauddin/mh-uhack-sentiments?select=train.csv
+98,MH : uHack Sentiments,Sentiment analysis,Binary,6136,2.0,English,Review,Functionality,https://www.kaggle.com/datasets/mohamedziauddin/mh-uhack-sentiments?select=train.csv
+99,MH : uHack Sentiments,Sentiment analysis,Binary,6136,2.0,English,Review,Quality,https://www.kaggle.com/datasets/mohamedziauddin/mh-uhack-sentiments?select=train.csv
+100,MH : uHack Sentiments,Sentiment analysis,Binary,6136,2.0,English,Review,Usability,https://www.kaggle.com/datasets/mohamedziauddin/mh-uhack-sentiments?select=train.csv
+101,🤬 Hate Speech Identification,Hate speech,Multiclass,24783,3.0,English,tweet,class,https://www.kaggle.com/datasets/mexwell/hate-speech-identification
+102,Urdu Sentiment Analysis Dataset,Sentiment analysis,Multiclass,6331,3.0,Urdu,comment,target,https://www.kaggle.com/datasets/iamhassantahir/urdu-comments-classification?select=train.csv
+103,Urdu Sentiment Analysis Dataset,Sentiment analysis,Multiclass,1979,3.0,Urdu,comment,target,https://www.kaggle.com/datasets/iamhassantahir/urdu-comments-classification?select=train.csv
+104,Urdu Sentiment Analysis Dataset,Sentiment analysis,Multiclass,1592,3.0,Urdu,comment,target,https://www.kaggle.com/datasets/iamhassantahir/urdu-comments-classification?select=train.csv
+105,Youtube Videos Dataset (~3400 videos),Text classification,Multiclass,3399,4.0,English,title,category,https://www.kaggle.com/datasets/rajatrc1705/youtube-videos-dataset
+106,NeurIPS 2016-2019 paper submissions,Text classification,Multiclass,3642,9.0,English,abstract,main_track,https://www.kaggle.com/datasets/nehatiwari03/neurips-20162019-paper-submissions?select=NIPS_combined_2016_19_Kaggle.csv
+107,Twitter Emotion,Sentiment analysis,Multiclass,6908,4.0,English,text,emotion,https://www.kaggle.com/datasets/phantomrider/twitter-emotion
+108,ChnSentiCorp_htl_all,Reviews rating,Binary,7765,2.0,Chinese,review,label,https://www.kaggle.com/datasets/marquis03/chnsenticorp-htl-all
+109,Hindi_Sentiment_Dataset,Sentiment analysis,Multiclass,7709,7.0,Hindi,Sentence,Label,https://www.kaggle.com/datasets/praths71018/hindi-sentiment-dataset
+110,COMSYS-T1,Psychological classification,Multiclass,740,5.0,English,Text,label,https://www.kaggle.com/datasets/kajimi/comsys2023?select=train.csv
+111,Albanian Fake News Corpus,"Fraud (Spam, Pishing, Fake)",Binary,3962,2.0,Albanian,content,fake_news,https://www.kaggle.com/datasets/gentrexha/albanian-fake-news-corpus
+112,Sentiment Analysis Dataset - Binary Classification,Sentiment analysis,Binary,7918,2.0,English,tweet,label,https://www.kaggle.com/datasets/dineshpiyasamara/sentiment-analysis-dataset
+113,🏨 Hilton Hotel London Reviews,Reviews rating,Multiclass,9405,5.0,English,review,score,https://www.kaggle.com/datasets/mexwell/hilton-hotel-london-reviews
+114,Luxury_Apparel_Data,Text classification,Multiclass,4388,10.0,English,ProductName,Category,https://www.kaggle.com/datasets/chitwanmanchanda/luxury-apparel-data
+115,Luxury_Apparel_Data,Text classification,Multiclass,4388,10.0,English,Description,Category,https://www.kaggle.com/datasets/chitwanmanchanda/luxury-apparel-data
+116,10000 Restaurant Reviews,Reviews rating,Multiclass,9714,10.0,English,Review,Rating,https://www.kaggle.com/datasets/joebeachcapital/restaurant-reviews
+117,COVID India Tweets with Sentiment,Sentiment analysis,Binary,9617,2.0,Multiple,tweet,sentiment,https://www.kaggle.com/datasets/heyytanay/covidindia-tweets-with-sentiment
+118,Generic Sentiment | Multidomain Sentiment Dataset,Sentiment analysis,Multiclass,9703,3.0,English,text,sentiment,https://www.kaggle.com/datasets/akgeni/generic-sentiment-multidomain-sentiment-dataset?select=generic_sentiment_dataset_10k.csv
+119,Generic Sentiment | Multidomain Sentiment Dataset,Sentiment analysis,Multiclass,50000,3.0,English,text,sentiment,https://www.kaggle.com/datasets/akgeni/generic-sentiment-multidomain-sentiment-dataset?select=generic_sentiment_dataset_10k.csv
+120,Yektanet( Dataset for Text Classification),Text classification,Multiclass,4399,22.0,Persian,description,category,https://www.kaggle.com/datasets/pkdarabi/yektanet
+121,Playstore_App_Reviews,Reviews rating,Multiclass,10130,5.0,English,content,score,https://www.kaggle.com/datasets/janmejaybhoi/playstore-reviews
+122,Cyberbully Detection Dataset,Hate speech,Multiclass,99989,4.0,English,text,label,https://www.kaggle.com/datasets/momo12341234/cyberbully-detection-dataset
+123,fakenews.csv,"Fraud (Spam, Pishing, Fake)",Binary,4729,2.0,English,text,label,https://www.kaggle.com/datasets/iamrahulthorat/fakenews-csv
+124,Twitter Suicidal Data,Psychological classification,Binary,8928,2.0,English,tweet,intention,https://www.kaggle.com/datasets/hosammhmdali/twitter-suicidal-data
+125,imdb_sentiment_10k_reviews_binary_classification,Sentiment analysis,Binary,9982,2.0,English,review,sentiment,https://www.kaggle.com/datasets/volodymyrgavrysh/imdb-sentiment-10k-reviews-binary-classification
+126,Cyberbullying detection,Hate speech,Binary,115661,2.0,English,Text,oh_label,https://www.kaggle.com/datasets/gbiamgaurav/cyberbullying-detection?select=aggression_parsed_dataset.csv
+127,Cyberbullying detection,Hate speech,Binary,115661,2.0,English,Text,oh_label,https://www.kaggle.com/datasets/gbiamgaurav/cyberbullying-detection?select=attack_parsed_dataset.csv
+128,Cyberbullying detection,Hate speech,Binary,8745,2.0,English,Text,oh_label,https://www.kaggle.com/datasets/gbiamgaurav/cyberbullying-detection?select=kaggle_parsed_dataset.csv
+129,Cyberbullying detection,Hate speech,Binary,159388,2.0,English,Text,oh_label,https://www.kaggle.com/datasets/gbiamgaurav/cyberbullying-detection?select=toxicity_parsed_dataset.csv
+130,Cyberbullying detection,Hate speech,Binary,16851,2.0,English,Text,oh_label,https://www.kaggle.com/datasets/gbiamgaurav/cyberbullying-detection?select=twitter_parsed_dataset.csv
+131,Cyberbullying detection,Hate speech,Binary,13471,2.0,English,Text,oh_label,https://www.kaggle.com/datasets/gbiamgaurav/cyberbullying-detection?select=twitter_racism_parsed_dataset.csv
+132,Cyberbullying detection,Hate speech,Binary,14881,2.0,English,Text,oh_label,https://www.kaggle.com/datasets/gbiamgaurav/cyberbullying-detection?select=twitter_sexism_parsed_dataset.csv
+133,Cyberbullying detection,Hate speech,Binary,3462,2.0,English,Text,oh_label,https://www.kaggle.com/datasets/gbiamgaurav/cyberbullying-detection?select=youtube_parsed_dataset.csv
+134,Sentiment Analysis of Commodity News (Gold),Sentiment analysis,Multiclass,10570,4.0,English,News,Price Sentiment,https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-in-commodity-market-gold
+135,Sentiment Analysis of Commodity News (Gold),Text classification,Binary,10570,2.0,English,News,Price Direction Up,https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-in-commodity-market-gold
+136,Sentiment Analysis of Commodity News (Gold),Text classification,Multiclass,10570,2.0,English,News,Price Direction Down,https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-in-commodity-market-gold
+137,Amazon Reviews Dataset,Reviews rating,Multiclass,13194,5.0,English,cleaned_review,review_score,https://www.kaggle.com/datasets/danielihenacho/amazon-reviews-dataset
+138,Amazon Reviews Dataset,Sentiment analysis,Multiclass,13194,3.0,English,cleaned_review,sentiments,https://www.kaggle.com/datasets/danielihenacho/amazon-reviews-dataset
+139,Rotten Tomatoes Reviews Dataset,Sentiment analysis,Binary,10662,2.0,English,reviews,labels,https://www.kaggle.com/datasets/mrbaloglu/rotten-tomatoes-reviews-dataset
+140,Spanish-lang suicide tendency texts,Psychological classification,Binary,84114,2.0,Spanish,traducido,class,https://www.kaggle.com/datasets/robertocarlosmendoza/spanish-lang-suicide-tendency-texts
+141,Duygu Analizi Veri Seti (Olumlu/Olumsuz/Tarafsız),Sentiment analysis,Multiclass,11408,3.0,Turkish,Görüş,Durum,https://www.kaggle.com/datasets/burhanbilenn/duygu-analizi-icin-urun-yorumlari
+142,Cyberbullying Dataset,Hate speech,Multiclass,46017,6.0,English,tweet_text,cyberbullying_type,https://www.kaggle.com/datasets/ashiqnazir/cbtweets
+143,Course Reviews University of Waterloo,Reviews rating,Binary,14696,2.0,English,reviews,course_rating_int,https://www.kaggle.com/datasets/anthonysusevski/course-reviews-university-of-waterloo
+144,Multilingual Spam Data,"Fraud (Spam, Pishing, Fake)",Binary,5132,2.0,Hindi,text_hi,labels,https://www.kaggle.com/datasets/rajnathpatel/multilingual-spam-data
+145,Multilingual Spam Data,"Fraud (Spam, Pishing, Fake)",Binary,5134,2.0,French,text_fr,labels,https://www.kaggle.com/datasets/rajnathpatel/multilingual-spam-data
+146,Multilingual Spam Data,"Fraud (Spam, Pishing, Fake)",Binary,5141,2.0,German,text_de,labels,https://www.kaggle.com/datasets/rajnathpatel/multilingual-spam-data
+147,Multilingual Spam Data,"Fraud (Spam, Pishing, Fake)",Binary,5157,2.0,English,text,labels,https://www.kaggle.com/datasets/rajnathpatel/multilingual-spam-data
+148,User Feedback Data from the Top 15 Mobile Apps,Reviews rating,Multiclass,14984,5.0,English,content,score,https://www.kaggle.com/datasets/mhamidasn/user-feedback-data-from-the-top-15-mobile-apps
+149,SentNoB,Sentiment analysis,Multiclass,12033,3.0,Bengali,Data,Label,https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts
+150,SentNoB,Sentiment analysis,Multiclass,1581,3.0,Bengali,Data,Label,https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts
+151,SentNoB,Sentiment analysis,Multiclass,1562,3.0,Bengali,Data,Label,https://www.kaggle.com/datasets/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts
+152,IMDb Movie Reviews Genres Description and Emotio,Reviews rating,Multiclass,19316,10.0,English,Reviews,Ratings,https://www.kaggle.com/datasets/fahadrehman07/movie-reviews-and-emotion-dataset
+153,IMDb Movie Reviews Genres Description and Emotio,Reviews rating,Multiclass,19316,10.0,Portuguese,Resenhas,Ratings,https://www.kaggle.com/datasets/fahadrehman07/movie-reviews-and-emotion-dataset
+154,Women's E-Commerce Clothing Reviews,Reviews rating,Multiclass,22638,5.0,English,Review Text,Rating,https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews
+155,Women's E-Commerce Clothing Reviews,Reviews rating,Multiclass,22638,2.0,English,Review Text,Recommended IND,https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews
+156,Daraz Code Mixed Product Reviews,Sentiment analysis,Multiclass,16990,3.0,Multiple,Reviews,Sentiments,https://www.kaggle.com/datasets/yrrebeere/daraz-code-mixed-product-reviews
+157,Mental Health Corpus,Psychological classification,Binary,27972,2.0,English,text,label,https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus
+158,Spam Classification for Basic NLP,"Fraud (Spam, Pishing, Fake)",Binary,5625,2.0,English,MESSAGE,CATEGORY,https://www.kaggle.com/datasets/chandramoulinaidu/spam-classification-for-basic-nlp
+159,Brazilian Portuguese Sentiment Analysis Datasets,Reviews rating,Binary,129792,2.0,Portuguese,review_text,polarity,https://www.kaggle.com/datasets/fredericods/ptbr-sentiment-analysis-datasets?select=olist.csv
+160,NLP - SPAM/HAM Email Classification,"Fraud (Spam, Pishing, Fake)",Binary,5695,2.0,English,Text,Spam,https://www.kaggle.com/datasets/yashpaloswal/spamham-email-classification-nlp
+161,datasets for natural language processing,Sentiment analysis,Multiclass,3794,3.0,English,text,Y,https://www.kaggle.com/datasets/toygarr/datasets-for-natural-language-processing
+162,datasets for natural language processing,Sentiment analysis,Multiclass,41047,3.0,English,text,Y,https://www.kaggle.com/datasets/toygarr/datasets-for-natural-language-processing
+163,datasets for natural language processing,Sentiment analysis,Binary,292927,2.0,English,text,Y,https://www.kaggle.com/datasets/toygarr/datasets-for-natural-language-processing
+164,datasets for natural language processing,Sentiment analysis,Binary,676518,2.0,English,text,Y,https://www.kaggle.com/datasets/toygarr/datasets-for-natural-language-processing
+165,datasets for natural language processing,Sentiment analysis,Binary,8576,2.0,English,text,Y,https://www.kaggle.com/datasets/toygarr/datasets-for-natural-language-processing
+166,datasets for natural language processing,Sentiment analysis,Binary,19964,2.0,English,text,Y,https://www.kaggle.com/datasets/toygarr/datasets-for-natural-language-processing
+167,Emotions dataset for NLP + Neutral Emotion,Sentiment analysis,Multiclass,21367,7.0,English,Subtitle,Emotion,https://www.kaggle.com/datasets/thuannaheempakeer/emotions-dataset-for-nlp-neutral-emotion?select=Train_Data.csv
+168,Emotions dataset for NLP + Neutral Emotion,Sentiment analysis,Multiclass,5392,7.0,English,Subtitle,Emotion,https://www.kaggle.com/datasets/thuannaheempakeer/emotions-dataset-for-nlp-neutral-emotion?select=Train_Data.csv
+169,EventClassifier: Twitter Data Set,Text classification,Multiclass,5729,6.0,English,text,category,https://www.kaggle.com/datasets/akashhiremath25/eventclassifier-twitter-data-set
+170,Emotions in text,Sentiment analysis,Multiclass,21405,6.0,English,Text,Emotion,https://www.kaggle.com/datasets/ishantjuyal/emotions-in-text
+171,Turkish Emotion Analysis Dataset,Sentiment analysis,Multiclass,21858,6.0,Turkish,text,label,https://www.kaggle.com/datasets/alpcansoydas/turkish-emotion-analysis-dataset
+172,FIFA World Cup 2022 Tweets,Sentiment analysis,Multiclass,22360,3.0,English,Tweet,Sentiment,https://www.kaggle.com/datasets/tirendazacademy/fifa-world-cup-2022-tweets
+173,Social Media Comments on Gaming Dataset,Sentiment analysis,Multiclass,21554,3.0,English,comment,sentiment,https://www.kaggle.com/datasets/sainitishmitta04/23k-reddit-gaming-comments-with-sentiments-dataset?select=23k_r_gaming_comments_sentiments.csv
+174,Sentiment & Emotions Labelled Tweets,Sentiment analysis,Multiclass,24639,3.0,English,Text,sentiment,https://www.kaggle.com/datasets/ankitkumar2635/sentiment-and-emotions-of-tweets
+175,Sentiment & Emotions Labelled Tweets,Sentiment analysis,Multiclass,24639,8.0,English,Text,emotion,https://www.kaggle.com/datasets/ankitkumar2635/sentiment-and-emotions-of-tweets
+176,Twitter_Prediction_Disaster,Text classification,Binary,7503,2.0,English,text,target,https://www.kaggle.com/datasets/ghanender/twitter-prediction-disaster?select=train.csv
+177,Brazilian Portuguese Sentiment Analysis Datasets,Reviews rating,Binary,36920,2.0,Portuguese,review_text,polarity,https://www.kaggle.com/datasets/fredericods/ptbr-sentiment-analysis-datasets?select=olist.csv
+178,Depression: Reddit Dataset (Cleaned),Psychological classification,Binary,7650,2.0,English,clean_text,is_depression,https://www.kaggle.com/datasets/infamouscoder/depression-reddit-cleaned
+179,Depression: Twitter Dataset + Feature Extraction,Psychological classification,Binary,19488,2.0,English,post_text,label,https://www.kaggle.com/datasets/infamouscoder/mental-health-social-media
+180,Youtube toxic comments,Hate speech,Binary,997,2.0,English,Text,IsToxic,https://www.kaggle.com/datasets/reihanenamdari/youtube-toxicity-data
+181,Youtube toxic comments,Hate speech,Binary,997,2.0,English,Text,IsAbusive,https://www.kaggle.com/datasets/reihanenamdari/youtube-toxicity-data
+182,Youtube toxic comments,Hate speech,Binary,997,2.0,English,Text,IsHatespeech,https://www.kaggle.com/datasets/reihanenamdari/youtube-toxicity-data
+183,Youtube toxic comments,Hate speech,Binary,997,2.0,English,Text,IsRacist,https://www.kaggle.com/datasets/reihanenamdari/youtube-toxicity-data
+184,Tweets with Sarcasm and Irony,Text classification,Multiclass,7994,4.0,English,tweets,class,https://www.kaggle.com/datasets/nikhiljohnk/tweets-with-sarcasm-and-irony
+185,Tweets with Sarcasm and Irony,Text classification,Multiclass,67997,4.0,English,tweets,class,https://www.kaggle.com/datasets/nikhiljohnk/tweets-with-sarcasm-and-irony
+186,McDonald's Store Reviews,Reviews rating,Multiclass,29984,5.0,English,review,rating,https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews
+187,Norwegian Review Corpus,Reviews rating,Multiclass,43437,6.0,Norwegian,text,rating,https://www.kaggle.com/datasets/ravaghi/norwegian-review-corpus
+188,⭐️ Yelp Review Dataset,Reviews rating,Multiclass,50000,5.0,English,text,label,https://www.kaggle.com/datasets/mexwell/yelp-review-dataset
+189,Google Play Store App Reviews categorized,Reviews rating,Multiclass,53552,5.0,English,content,score,https://www.kaggle.com/datasets/souravghosh01/google-play-store-app-reviews-categorized
+190,Airline Passenger Reviews,Reviews rating,Multiclass,59391,3.0,English,customer_review,NPS Score,https://www.kaggle.com/datasets/malharkhatu/airline-passenger-reviews
+191,Spotify App Reviews,Reviews rating,Multiclass,61356,5.0,English,Review,Rating,https://kaggle.com/datasets/mfaaris/spotify-app-reviews-2022
+192,Amazon Product Reviews for NLP,Reviews rating,Multiclass,71095,5.0,English,reviewText,reviewStar,https://www.kaggle.com/datasets/yeshmesh/inconsistent-and-consistent-amazon-reviews
+193,facens_nlp_corpus_categorias_treino,Text classification,Multiclass,8015,4.0,English,words,category,https://www.kaggle.com/datasets/himselfthedecker/facens-nlp-corpus-categorias-treino
+194,Generic Sentiment | Multidomain Sentiment Dataset,Sentiment analysis,Multiclass,9703,3.0,English,text,sentiment,https://www.kaggle.com/datasets/akgeni/generic-sentiment-multidomain-sentiment-dataset?select=generic_sentiment_dataset_50k.csv
+195,Breaking_News,Text classification,Binary,8221,2.0,English,news,label,https://www.kaggle.com/datasets/yomnamuhammad/breaking-news
+196,Twitter Tweets Sentiment Dataset,Sentiment analysis,Multiclass,27481,3.0,English,text,sentiment,https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset
+197,Generic Sentiment | Multidomain Sentiment Dataset,Sentiment analysis,Multiclass,48514,3.0,English,text,sentiment,https://www.kaggle.com/datasets/akgeni/generic-sentiment-multidomain-sentiment-dataset?select=generic_sentiment_dataset_50k.csv
+198,Coronavirus tweets NLP - Text Classification,Sentiment analysis,Multiclass,41157,5.0,English,OriginalTweet,Sentiment,https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification?select=Corona_NLP_train.csv
+199,Coronavirus tweets NLP - Text Classification,Sentiment analysis,Multiclass,3798,5.0,English,OriginalTweet,Sentiment,https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification?select=Corona_NLP_test.csv
+200,English Tense Classification,Text classification,Multiclass,10323,3.0,English,Sentence,Label,https://www.kaggle.com/datasets/hafizflow/english-tense-classification
+201,BanglaBait: Bangla Clickbait Dataset,"Fraud (Spam, Pishing, Fake)",Binary,10631,2.0,English,translated_content,label,https://www.kaggle.com/datasets/motaharmahtab/banglabait-bangla-clickbait-dataset
+202,BanglaBait: Bangla Clickbait Dataset,"Fraud (Spam, Pishing, Fake)",Binary,2998,2.0,English,translated_content,label,https://www.kaggle.com/datasets/motaharmahtab/banglabait-bangla-clickbait-dataset
+203,BanglaBait: Bangla Clickbait Dataset,"Fraud (Spam, Pishing, Fake)",Binary,1203,2.0,English,translated_content,label,https://www.kaggle.com/datasets/motaharmahtab/banglabait-bangla-clickbait-dataset
+204,Brazilian Portuguese Hatespeech dataset,Hate speech,Binary,5666,2.0,Portuguese,text,hatespeech_comb,https://www.kaggle.com/datasets/hrmello/brazilian-portuguese-hatespeech-dataset
+205,Happiness Type,Sentiment analysis,Multiclass,58454,7.0,English,cleaned_hm,predicted_category,https://www.kaggle.com/datasets/sourabhbaldwa/bonding?select=hm_train.csv
+206,Tunisian Arabizi Dialect Data - Sentiment Analysis,Sentiment analysis,Multiclass,100000,3.0,Tunisian,InputText,SentimentLabel,https://www.kaggle.com/datasets/waalbannyantudre/tunisian-arabizi-dialect-data-sentiment-analysis
+207,Disaster Tweets,Text classification,Binary,11223,2.0,English,text,target,https://www.kaggle.com/datasets/vstepanenko/disaster-tweets
+208,Covid-19 Twitter Dataset,Sentiment analysis,Multiclass,143903,3.0,English,original_text,sentiment,https://www.kaggle.com/datasets/arunavakrchakraborty/covid19-twitter-dataset?select=Covid-19+Twitter+Dataset+%28Aug-Sep+2020%29.csv
+209,Covid-19 Twitter Dataset,Sentiment analysis,Multiclass,147475,3.0,English,original_text,sentiment,https://www.kaggle.com/datasets/arunavakrchakraborty/covid19-twitter-dataset?select=Covid-19+Twitter+Dataset+%28Aug-Sep+2020%29.csv
+210,Covid-19 Twitter Dataset,Sentiment analysis,Multiclass,120509,3.0,English,original_text,sentiment,https://www.kaggle.com/datasets/arunavakrchakraborty/covid19-twitter-dataset?select=Covid-19+Twitter+Dataset+%28Aug-Sep+2020%29.csv
+211,🗣️ Depressive/Non-Depressive Tweets Data,Sentiment analysis,Binary,124017,2.0,English,text,sentiment,https://www.kaggle.com/datasets/mexwell/depressivenon-depressive-tweets-data
